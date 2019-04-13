@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "625758286030",
+    "firebase_url": "https://rock-game-6db07.firebaseio.com",
+    "project_id": "rock-game-6db07",
+    "storage_bucket": "rock-game-6db07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625758286030:android:ac3141b0718defa3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625758286030-g0de9e7lbdrmm8f5h9jfp5d5roef6djr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication1",
+            "certificate_hash": "04b065d2bc35d9d6e0985f221b6816897a2126ba"
+          }
+        },
+        {
+          "client_id": "625758286030-e9mdvj6jdrl5p3a10urmaire596nb2eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt6fF5qVztP0xFJzsW7qIhaOSEd7ZO-hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625758286030-e9mdvj6jdrl5p3a10urmaire596nb2eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625758286030:android:b1244986cae3ff34",
+        "android_client_info": {
+          "package_name": "com.example.myapplication29"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625758286030-ifkmv22kbdi109q6r7hpo25mpsdmh00n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication29",
+            "certificate_hash": "439fda937146a54720197b8894e18c286ac72a5f"
+          }
+        },
+        {
+          "client_id": "625758286030-e9mdvj6jdrl5p3a10urmaire596nb2eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt6fF5qVztP0xFJzsW7qIhaOSEd7ZO-hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625758286030-e9mdvj6jdrl5p3a10urmaire596nb2eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
